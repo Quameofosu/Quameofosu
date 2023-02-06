@@ -49,11 +49,11 @@
 <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
   
 #### What's interesting about me?  
-  - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
-  - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
-  - ✍️ I write about **why a certain code is written instead of what** in the comments.
-  - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
+  - 😎 I am an **ambivert** and I speak about space exploration and technology with **passion**.
+  - 🧐 I love to be very **precise** and **thorough**. I love to be the **MasterMind**.
+  - ✍️ I am not afraid **to listen** and **ask alot of questions**.
+  - ⏱️ I love to learn **new things** and drink a lot of ☕ **fluids**.
+  - 😅 I just can't **resist the urge** to **study** **overnight** when I have my laptop.
 
 <!--Github Stats-->
 <p float="left">
