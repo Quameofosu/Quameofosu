@@ -25,6 +25,7 @@
     - **🖥 Firmware:** • [Platform IO](https://platform.uno/) • [Eclipse](https://docs.microsoft.com/en-us/windows/apps/winui/)
     - **🔌 PCB:** • [KiCAD](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [EasyEDA](https://platform.uno/uno-platform-for-web-webassembly/) • [Eagle](https://opensilver.net/)
     - **🌐 3D Models:** • [GrabCAD](https://grabcad.com/library) • [3D content central](https://www.3dcontentcentral.com/)
+    - **🌐 3D Design Softwares:** • [SolidWorks](https://www.solidworks.com/) • [FreeCAD](https://www.freecad.org/) • [Fusion360](https://www.autodesk.com/products/fusion-360)
     - **⚡ Simulators:** • [Proteus](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [NI Multisim](https://platform.uno/uno-platform-for-web-webassembly/) • [Fritzing](https://opensilver.net/) • [Tinkercad](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) • [Wowki](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
     - **🏭 PCB Manufacturers:** • [JLCPCB](https://jlcpcb.com/) • [PCB Way](https://www.pcbway.com/) • [NextPCB](https://www.nextpcb.com/)
     - **🏭 Components Manufacturers:** • [Microchip](https://www.microchip.com/) • [Espressif](https://www.espressif.com/) • [Texas Instruments](https://www.ti.com/) • [ARM](https://www.arm.com/) • [Atmel](https://www.microchip.com/) • [STMicroelectronics](http://www.st.com/web/en/home.html)
