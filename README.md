@@ -9,7 +9,7 @@
 #### What I'm doing?
 - 🏢 Wrapping up my 4-Year first degree in Physics with Electronics at **[KNUST Department of Physics](https://physics.knust.edu.gh/)** with a project in **Microbial Fuel Cells**.
 - 👨‍💻 Writing `Python,` `C++,` `Arduino,` `Qiskit` `Flutter`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/ofosu-emmanuel/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and <a href="v"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height=20></a>
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/ofosu-emmanuel/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and <a href="quameofosuemma@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height=20></a>
 - 📚 Currently learning about **Quantum Computers**,**PCB Rendering in Blender**, **High-Speed PCB design**, **TinyML**, and **Technology StartUps**.
 - 👯 Looking to collaborate on **Quantum Computing** and **Embedded Electronics Projects**.
 - 🥰 Building **[Image Classication using Quantum Machine Learning](https://github.com/Quameofosu/2023_IonQ_Remote)**, **[Electronic MP3 Player](https://github.com/Quameofosu/ProjectChristine)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects.
