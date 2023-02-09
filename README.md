@@ -4,6 +4,8 @@
 - A Final Year Physics with Electronics Student based in **[KNUST- Kumasi](https://www.knust.edu.gh/), [Ghana](https://en.wikipedia.org/wiki/Ghana).** 
 - Have half-a-decade of hands-on experience in **embedded electronics, programming and teaching robotics, product development.**
 - Developed products for **Persons-with-disabilities, E-mobility, retail,** and **smart education** business domains.
+- Currently in second semester of IBM QxQ 1 Year Introduction to Quantum Computing
+- Participated in MIT iQuHACK 2023 (Worked on IonQ's QML Challenge) and Xanadu's QHACK2023
 - Have designed and built **Prototypes, PCB, firmware** and **IOT** apps for **Industry, Clients** and **Research** applications.
 
 #### What I'm doing?
