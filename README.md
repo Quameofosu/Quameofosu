@@ -9,7 +9,7 @@
 - Have designed and built **Prototypes, PCB, firmware** and **IOT** for **Industry, Clients** and **Research** applications.
 
 #### What I'm doing?
-- 🏢 Wrapping up my 4-Year first degree in Physics with Electronics at **[KNUST Department of Physics](https://physics.knust.edu.gh/)** with a project in **Microbial Fuel Cells**.
+- 🏢 Wrapping up my 4-Year first degree in Physics with Electronics at **[KNUST Department of Physics](https://physics.knust.edu.gh/)** with a project in **Microbial Fuel Cell coupled Microbial Electrolysis Cell**.
 - 👨‍💻 Writing `Python,` `C++,` `Arduino,` `Qiskit` `Flutter`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/ofosu-emmanuel/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and <a href="quameofosuemma@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height=20></a>
 - 📚 Currently learning about **Quantum Computers**,**PCB Rendering in Blender**, **High-Speed PCB design**, **TinyML**, and **Technology StartUps**.
