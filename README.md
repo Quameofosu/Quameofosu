@@ -63,7 +63,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quameofosu" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quameofosu"/>
 </p>
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Quameofosu/Quameofosu/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 #### What companies have I worked for?
 <p left="center">
