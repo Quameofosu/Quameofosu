@@ -66,7 +66,23 @@
 
 
 ###
-![snake gif](https://github.com/Quameofosu/Quameofosu/blob/output/github-contribution-grid-snake.svg)
+
+Generates a snake game from my github contributions graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Quameofosu/Quameofosu/blob/output/github-contribution-grid-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Quameofosu/Quameofosu/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/Quameofosu/Quameofosu/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!--
 #### What companies have I worked for?
