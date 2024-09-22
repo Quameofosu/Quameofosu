@@ -67,6 +67,12 @@
 
 ###
 ![snake gif](https://github.com/Quameofosu/Quameofosu/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/Quameofosu/Quameofosu/blob/output/github-contribution-grid-snake.svg)" />
+  <img alt="snake gif" src="[github-snake.svg](https://github.com/Quameofosu/Quameofosu/blob/output/github-contribution-grid-snake.svg)" />
+</picture>
+
 <!--
 #### What companies have I worked for?
 <p left="center">
